@@ -1,0 +1,26 @@
+{
+  "name": "@chenjinshan/chen-test",
+  "version": "1.0.2",
+  "main": "time/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magnifying glass"
+  ],
+  "author": "chen",
+  "license": "ISC",
+  "description": "",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vue": "^3.2.39"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itlixiaolong/qiankun-cli.git"
+  }
+}
